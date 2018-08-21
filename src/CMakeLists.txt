@@ -14,6 +14,7 @@ set(libboolector_src_files
   btordbg.c
   btordcr.c
   btorexp.c
+  btorlsutils.c
   btormc.c
   btormodel.c
   btormsg.c
@@ -21,12 +22,13 @@ set(libboolector_src_files
   btoropt.c
   btorparse.c
   btorprintmodel.c
+  btorproputils.c
   btorrewrite.c
   btorsat.c
+  btorslsutils.c
   btorslvaigprop.c
   btorslvfun.c
   btorslvprop.c
-  btorslvpropsls.c
   btorslvquant.c
   btorslvsls.c
   btorsort.c
